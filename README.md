@@ -23,6 +23,7 @@ As user, I want to be able to add product to cart
 As user, I want to be able to place order for added products in cart
 As user, I want to user my order history
 As user, I want to be able to logout
+
 Bonus Tasks
 Verify email after registration
 Product attributes and filtering e.g brand, category
